@@ -33,10 +33,10 @@ This app shows products with a modern UI and smooth user experience.
 
 <img src="signup_page.jpg" width="200"> <img src="login_page.jpg" width="200">
 <img src="home_screen.jpg" width="200"> <img src="shoe_categorypage.jpg" width="200">
-<img src="product_details2.jpg" width="200"> <img src="product_details1.jpg" width="200">
+<img src="product_details2.jpg" width="200"> <img src="product_details.jpg" width="200">
 <img src="cart_page.jpg" width="200"> <img src="checkout_page.jpg" width="200">
 <img src="favorite_page.jpg" width="200"> <img src="profile_page.jpg" width="200">
-<img src="pay_success_page.jpg" width="200"> <img src="sucess_dialog.jpg" width="200">
+<img src="pay_success_page.jpg" width="200"> <img src="success_dialog.jpg" width="200">
 
 
 ---
