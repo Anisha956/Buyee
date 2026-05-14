@@ -12,6 +12,7 @@ This app shows products with a modern UI and smooth user experience.
 - 🔍 Product Details Screen
 - ❤️ Easy Navigation
 - 🔥 Firebase Integration
+- Razoypay Integration
 
 ---
 
