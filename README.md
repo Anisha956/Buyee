@@ -31,21 +31,13 @@ This app shows products with a modern UI and smooth user experience.
 
 # 📸 Screenshots
 
-## Home Screen
+<img src="signup_page.jpg" width="200"> <img src="login_page.jpg" width="200">
+<img src="home_screen.jpg" width="200"> <img src="shoe_categorypage.jpg" width="200">
+<img src="product_details.jpg" width="200"> <img src="product_details2.jpg" width="200">
+<img src="cart_page.jpg" width="200"> <img src="checkout_page.jpg" width="200">
+<img src="favorite_page.jpg" width="200"> <img src="profile_page.jpg" width="200">
+<img src="pay_success_page.jpg" width="200"> <img src="sucess_dialog.jpg" width="200">
 
-![Home Screen](images/signup_page.jpg)
-![Home Screen](images/login_page.jpg)
-![Home Screen](images/home_screen.jpg)
-![Home Screen](images/home_screen.jpg)
-![Home Screen](images/shoe_categorypage.jpg)
-![Home Screen](images/product_details.jpg)
-![Home Screen](images/product_details2.jpg)
-![Home Screen](images/cart_page.jpg)
-![Home Screen](images/checkout_page.jpg)
-![Home Screen](images/favorite_page.jpg)
-![Home Screen](images/profile_page.jpg)
-![Home Screen](images/pay_success_page.jpg)
-![Home Screen](images/sucess_dialog.jpg)
 
 ---
 
